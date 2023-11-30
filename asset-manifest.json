@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ticTakToy/static/css/main.cb94f4fe.css",
+    "main.js": "/ticTakToy/static/js/main.0844de1c.js",
+    "static/js/787.d4aba7ab.chunk.js": "/ticTakToy/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/ticTakToy/index.html",
+    "main.cb94f4fe.css.map": "/ticTakToy/static/css/main.cb94f4fe.css.map",
+    "main.0844de1c.js.map": "/ticTakToy/static/js/main.0844de1c.js.map",
+    "787.d4aba7ab.chunk.js.map": "/ticTakToy/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb94f4fe.css",
+    "static/js/main.0844de1c.js"
+  ]
+}
