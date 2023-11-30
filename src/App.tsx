@@ -17,7 +17,6 @@ function App() {
         cell: Array(9).fill(null),
         currentPlayer: 'x'
     });
-    console.log(appState)
     const resultsPlayer = () => {
         let resultLogic = [
             [0, 1, 2],
